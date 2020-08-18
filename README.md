@@ -1,7 +1,7 @@
 ### Pedro Lins 🌊
 Engineer
-#### Can't really fit what I'm doing in a sentence, but:
-- Developing with the JAMstack
+#### Can't really fit what I'm focused on doing in a sentence, but:
+- Competitive programming
 - Self-teaching Computer science
 #### Recent posts:
 - [External rewards don't create sustainable habits](https://sarmentow.github.io/External_rewards_don't_create_sustainable_habits.html) 
