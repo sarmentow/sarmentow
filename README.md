@@ -1,8 +1,5 @@
 ### Pedro Lins 🌊
-Engineer
-#### Can't really fit what I'm focused on doing in a sentence, but:
-- Competitive programming
-- Self-teaching Computer science
+
 #### I try to read a lot about
 - Learning 
 - Physics
