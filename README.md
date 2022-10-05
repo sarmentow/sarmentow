@@ -1,5 +1,8 @@
 ### Pedro Lins 🌊
 
+### Análises de alguns projetos passados
+- [Uma câmera programável e barata para casos simples de monitoramento](https://gist.github.com/sarmentow/968451a1fe60c5fcfa27d3abe4657b1a)
+
 ### Recent stuff I wrote
 - [Shallow explanations of important ideas](https://gist.github.com/sarmentow/acb76d07ea606a21b55244c12e76f4e7)
 - [TLDR; Your brain on porn](https://gist.github.com/sarmentow/e426a802e4f389f97fbf63d590fc4803) 
